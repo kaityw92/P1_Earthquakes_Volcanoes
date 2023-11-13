@@ -1,1 +1,1 @@
-# P1_Earthquakes_Volcanoes
+# P1_Volcanoes
